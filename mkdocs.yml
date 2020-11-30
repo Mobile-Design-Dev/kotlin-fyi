@@ -1,0 +1,32 @@
+site_name: Kotlin FYI
+theme:
+  name: material
+  highlightjs: true
+  hljs_languages:
+    - rust
+    - java
+    - javascript
+    - kotlin
+    - dart
+    - python
+    - markdown
+  navigation_depth: 3
+  nav_style: dark
+  # -- Theme: Material
+  # 1. Change colors: https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
+  palette:
+    scheme: default
+    primary: deep purple
+    accent: deep orange
+  # 2. Change fonts: https://squidfunk.github.io/mkdocs-material/setup/changing-the-fonts/
+  font:
+    text: Roboto
+    code: Roboto Mono
+  # 3. Change language: https://squidfunk.github.io/mkdocs-material/setup/changing-the-language/
+  language: en
+  direction: ltr
+  # 4. Change logo, favicon, icons: https://squidfunk.github.io/mkdocs-material/setup/changing-the-logo-and-icons/
+  #    Pick from: https://github.com/squidfunk/mkdocs-material/tree/master/material/.icons
+  icon:
+    logo: octicons/squirrel-24
+    favicon: octicons/squirrel-24
