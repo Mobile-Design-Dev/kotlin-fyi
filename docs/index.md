@@ -1,17 +1,26 @@
-# Welcome to MkDocs
+# Welcome to Kotlin.FYI
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Hello and welcome to my Kotlin corner of the web! If you're new to the site, start at the [About](home/about) page. Subscribe to the [RSS Feed](feed_rss_created.xml)or follow [@kotlinfyi](https://twitter.com/kotlinfyi) for regular updates.
 
-## Commands
+---
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## News
 
-## Project layout
+!!! example "December 2020"
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+ * (Dec 1) Jetbrains launched a [Kotlin For Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers) course on Coursera starting today. It's free to audit or you can pay for certification. The course is spread over 5 weeks and should take ~25 hours to complete on a normal pace. I'll be checking it out soon!
+
+---
+
+## Activity
+
+
+!!! tip "Recent Posts"
+
+ * **01 Dec 2020** - [About Kotlin.FYI and #100DaysOfKotlin](home/about)
+
+
+
+---
+
+[:fontawesome-brands-twitter:{: .twitter } Follow @kotlinfyi](https://twitter.com/kotlinfyi){: .md-button .md-button--primary }

@@ -53,11 +53,11 @@ I'm setting up this repository and website to kickstart #100DaysOfKotlin explora
 There is no dearth of resources available - my goal is to explore them in a systematic way and share learnings through code and content. 
 
 Want to follow along? 
- * Bookmark the website: <br/> [https://kotlin.fyi]()
- * Review the possible trails: <br/> 
- [https://kotlin.fyi/trailmap]()
+ * Bookmark the website: <br/> [https://kotlin.fyi](https://kotlin.fyi)
+ * Review the roadmap: <br/> 
+ [https://kotlin.fyi/roadmap](https://kotlin.fyi/roadmap)
  * Subscribe to the feed: <br/>
- [https://kotlin.fyi/feed_rss_created.xml]()
+ [https://kotlin.fyi/feed_rss_created.xml](https://kotlin.fyi/feed_rss_created.xml)
 
  ---
 

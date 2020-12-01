@@ -1,27 +1,94 @@
+# Configuration
+# See: https://www.mkdocs.org/user-guide/configuration/
+
+# Project Information
+# See: https://www.mkdocs.org/user-guide/configuration/#project-information
 site_name: Kotlin FYI
+site_url: https://kotlin.fyi
+site_description: Exploring Kotlin from basic concepts to Android development and beyond!
+site_author: Nitya Narasimhan (@nitya)
+copyright: Copyright &copy; 2020 Nitya Narasimhan
+repo_name: kotlin-fyi
+repo_url: https://github.com/Mobile-Design-Dev/kotlin-fyi
+edit_uri: ''
+#edit_uri: edit/main/docs
+#google_analytics: ['UA-XXXXXXXX-X', 'kotlin.fyi']
+
+# Documentation Layout
+# See: https://www.mkdocs.org/user-guide/configuration/#documentation-layout
+# See: https://www.mkdocs.org/#adding-pages
+# See: https://www.mkdocs.org/user-guide/writing-your-docs/#file-layout
+nav:
+  - Home: index.md 
+  - Kotlin:
+    - Introduction: kotlin/index.md
+  - Android: 
+    - Introduction: android/index.md
+  - About: 
+    - Website : home/about.md
+    - Roadmap: home/roadmap.md
+    - 100Days : home/timeline.md
+
+# Build Directories 
+# Includes: 
+#  theme, docs_dir, site_dir, extra_css, extra_javascript, extra_templates, extra
+# See: https://www.mkdocs.org/user-guide/configuration/#build-directories
+
+
+# ======= THEMING =======
+
+# Theme Customization (extra_css, extra_javascript)
+# See: https://www.mkdocs.org/user-guide/styling-your-docs/#customizing-a-theme 
+# See: https://squidfunk.github.io/mkdocs-material/customization/
+# CSS: https://squidfunk.github.io/mkdocs-material/customization/#additional-css
+# JS Tablesort: https://squidfunk.github.io/mkdocs-material/reference/data-tables/#sortable-tables
+extra:
+  manifest: manifest.webmanifest
+  social: 
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/nitya
+    - icon: fontawesome/brands/github
+      link: https://github.com/nitya
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/nityan
+    - icon: fontawesome/brands/medium
+      link: https://www.medium.com/@nitya
+    - icon: fontawesome/brands/dev
+      link: https://dev.to/nitya
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - javascripts/tables.js
+
+# Theme Configuration
+# See Favicon: https://www.mkdocs.org/#changing-the-favicon-icon
+# See Palette: https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
+# See Font: https://squidfunk.github.io/mkdocs-material/setup/changing-the-fonts/
+# See Overrides: https://www.mkdocs.org/user-guide/styling-your-docs/#using-the-theme-custom_dir
 theme:
   name: material
-  highlightjs: true
-  hljs_languages:
-    - rust
-    - java
-    - javascript
-    - kotlin
-    - dart
-    - python
-    - markdown
-  navigation_depth: 3
-  nav_style: dark
-  # -- Theme: Material
-  # 1. Change colors: https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
   palette:
     scheme: default
     primary: deep purple
-    accent: deep orange
-  # 2. Change fonts: https://squidfunk.github.io/mkdocs-material/setup/changing-the-fonts/
+    accent: orange
   font:
     text: Roboto
     code: Roboto Mono
+  include_homepage_in_sidebar: false
+  prev_next_buttons_location: bottom
+  titles_only: false         # false
+  collapse_navigation: true  # true
+  sticky_navigation: true    # true
+  shortcuts:      # See https://keycode.info/
+    help: 191     # ?
+    next: 78      # n
+    previous: 80  # p
+    search: 83    # s
+  features:
+    - navigation.tabs
+  navigation_depth: 3
+  nav_style: dark
   # 3. Change language: https://squidfunk.github.io/mkdocs-material/setup/changing-the-language/
   language: en
   direction: ltr
@@ -30,3 +97,75 @@ theme:
   icon:
     logo: octicons/squirrel-24
     favicon: octicons/squirrel-24
+
+# ======= PLUGINS & EXTENSIONS =======
+
+# Plugins
+plugins:
+  - search
+  - rss # https://guts.github.io/mkdocs-rss-plugin/
+
+# Extensions
+# Abbreviations=Glossary: https://squidfunk.github.io/mkdocs-material/reference/abbreviations/
+# Admonitions=Callouts: https://squidfunk.github.io/mkdocs-material/reference/admonitions/
+# Attribute List=Buttons: https://squidfunk.github.io/mkdocs-material/reference/buttons/
+# Pygments= Code Blocks: https://squidfunk.github.io/mkdocs-material/reference/code-blocks/
+markdown_extensions:
+  - abbr
+  - pymdownx.snippets     # Abbreviations file
+  - admonition
+  - pymdownx.details      # Collapsible admonition
+  - pymdownx.superfences  # Embedded content
+  - attr_list
+  - pymdownx.emoji:       # Icons + Emoji
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight:   # Code Blocks
+      use_pygments: true
+      linenums: true
+      linenums_style: pymdownx.inline
+  - pymdownx.keys         # Insert keyboard key characters
+  - pymdownx.inlinehilite # Inline highlighting
+  - pymdownx.tabbed       # Create tabbed sections
+  - footnotes             # Footnotes
+  - pymdownx.smartsymbols # Smart Symbols
+  - pymdownx.caret        # Formatting - highlight, sub-, super- scripts
+  - pymdownx.mark
+  - pymdownx.tilde
+  - def_list              # Add definition lists 
+  - pymdownx.tasklist:    # Add tasklists
+      custom_checkbox: true
+      clickable_checkbox: false
+  - meta                  # meta tags
+
+# Admonitions are cool!
+# Default types: https://squidfunk.github.io/mkdocs-material/reference/admonitions/#supported-types
+# Custom types (icon+color): https://squidfunk.github.io/mkdocs-material/reference/admonitions/#customization
+
+# Icons need Emoji
+# Emoji extension: https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/#emoji
+# Icon list; https://github.com/squidfunk/mkdocs-material/tree/master/material/.icons
+# Colors: https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/#with-colors
+# Animations: https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/#with-animations
+
+# Code segments with lexers give language context
+# Supported lexers: https://pygments.org/docs/lexers/ (e.g., kotlin)
+# Line numbers: https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#adding-line-numbers
+# Highlight lines: https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#highlighting-specific-lines
+# Highlight inline: https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#highlighting-inline-code-blocks
+# Custom syntax highlight: https://squidfunk.github.io/mkdocs-material/reference/code-blocks/#custom-syntax-theme
+# Group code blocks into tabs: https://squidfunk.github.io/mkdocs-material/reference/content-tabs/#grouping-code-blocks
+
+# Footnotes: https://squidfunk.github.io/mkdocs-material/reference/footnotes/#footnotes_1
+# Smart Symbols: https://facelessuser.github.io/pymdown-extensions/extensions/smartsymbols/
+# Formatting: https://squidfunk.github.io/mkdocs-material/reference/formatting/#caret-mark-tilde
+# Images & Lazyloading: https://squidfunk.github.io/mkdocs-material/reference/images/
+# Definition Lists: https://squidfunk.github.io/mkdocs-material/reference/lists/#using-definition-lists
+# MathJax: https://squidfunk.github.io/mkdocs-material/reference/mathjax/
+
+# ADVANCED USAGE
+# Meta Tags: https://squidfunk.github.io/mkdocs-material/reference/meta-tags/
+# Web Manifest: https://squidfunk.github.io/mkdocs-material/reference/meta-tags/#adding-a-web-app-manifest
+# Add Manifest: https://web.dev/add-manifest/
+# Custom Meta Tags e.g. Twitter Cards: https://squidfunk.github.io/mkdocs-material/reference/meta-tags/#custom-meta-tags
+# Variables & Macros: https://squidfunk.github.io/mkdocs-material/reference/variables/
