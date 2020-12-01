@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+  xmlns:atom="https://www.w3.org/2005/Atom"
+  xmlns:dc="https://purl.org/dc/elements/1.1/">
+  <channel>
+    <!-- Mandatory elements -->
+    <title>Kotlin FYI</title>
+    <description>Exploring Kotlin from basic concepts to Android development and beyond!</description>
+    <link>https://kotlin.fyi/</link>
+    <atom:link href="https://kotlin.fyi/feed_rss_created.xml" rel="self" type="application/rss+xml" />
+
+    <!-- Optional elements -->
+    <managingEditor>Nitya Narasimhan (@nitya)</managingEditor>
+    
+    <docs>https://github.com/Mobile-Design-Dev/kotlin-fyi</docs>
+    <language>en</language>
+
+    <!-- Timestamps and frequency -->
+    <pubDate>Tue, 01 Dec 2020 22:29:41 -0000</pubDate>
+    <lastBuildDate>Tue, 01 Dec 2020 22:29:41 -0000</lastBuildDate>
+    <ttl>1440</ttl>
+
+    <!-- Credits -->
+    <generator>MkDocs RSS plugin - v0.9.0</generator>
+
+    <!-- Feed illustration -->
+    
+
+    <!-- Entries -->
+    
+    <item>
+      <title>Introduction</title>
+      <description></description>
+      <link>https://kotlin.fyi/android/</link>
+      <pubDate>Tue, 01 Dec 2020 22:29:42 -0000</pubDate>
+      <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
+      <guid isPermaLink="true">https://kotlin.fyi/android/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Website</title>
+      <description># About Kotlin.FYI
+
+## My Goal
+It is December 1, 2020 - and I&#39;m embarking on a #100DaysOfKotlin journey. I want to understand the language better and </description>
+      <link>https://kotlin.fyi/home/about/</link>
+      <pubDate>Tue, 01 Dec 2020 22:29:42 -0000</pubDate>
+      <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
+      <guid isPermaLink="true">https://kotlin.fyi/home/about/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Roadmap</title>
+      <description># Roadmap
+
+In Progress</description>
+      <link>https://kotlin.fyi/home/roadmap/</link>
+      <pubDate>Tue, 01 Dec 2020 22:29:42 -0000</pubDate>
+      <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
+      <guid isPermaLink="true">https://kotlin.fyi/home/roadmap/</guid>
+      
+    </item>
+    
+    <item>
+      <title>100Days</title>
+      <description># Timeline
+
+This page tracks progress for the #100DaysOfKotlin initiative in reverse chronological order (most recent post first). Click on the linked</description>
+      <link>https://kotlin.fyi/home/timeline/</link>
+      <pubDate>Tue, 01 Dec 2020 22:29:42 -0000</pubDate>
+      <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
+      <guid isPermaLink="true">https://kotlin.fyi/home/timeline/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <description></description>
+      <link>https://kotlin.fyi/kotlin/</link>
+      <pubDate>Tue, 01 Dec 2020 22:29:42 -0000</pubDate>
+      <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
+      <guid isPermaLink="true">https://kotlin.fyi/kotlin/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <description># Welcome to Kotlin.FYI
+
+Hello and welcome to my Kotlin corner of the web! If you&#39;re new to the site, start at the [About](home/about) page. Subscribe</description>
+      <link>https://kotlin.fyi/</link>
+      <pubDate>Mon, 30 Nov 2020 21:52:22 -0000</pubDate>
+      <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
+      <guid isPermaLink="true">https://kotlin.fyi/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>
