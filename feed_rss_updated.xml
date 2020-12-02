@@ -16,8 +16,8 @@
     <language>en</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Tue, 01 Dec 2020 22:29:41 -0000</pubDate>
-    <lastBuildDate>Tue, 01 Dec 2020 22:29:41 -0000</lastBuildDate>
+    <pubDate>Wed, 02 Dec 2020 15:36:06 -0000</pubDate>
+    <lastBuildDate>Wed, 02 Dec 2020 15:36:06 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -29,71 +29,113 @@
     <!-- Entries -->
     
     <item>
-      <title>Introduction</title>
-      <description></description>
+      <title>TOC</title>
+      <description># Kotlin &amp; Cloud Integrations
+
+[:fontawesome-solid-map: Trail Map](/home/roadmap){: .md-button .md-button--accent }
+
+??? warning &#34;Under Construction&#34;
+</description>
+      <link>https://kotlin.fyi/cloud/</link>
+      <pubDate>Wed, 02 Dec 2020 15:36:06 -0000</pubDate>
+      <source url="https://kotlin.fyi/feed_rss_updated.xml">Kotlin FYI</source>
+      <guid isPermaLink="true">https://kotlin.fyi/cloud/</guid>
+      
+    </item>
+    
+    <item>
+      <title>TOC</title>
+      <description># Working with Foldable Devices
+
+[:fontawesome-solid-map: Trail Map](/home/roadmap){: .md-button .md-button--accent }
+
+??? warning &#34;Under Construction</description>
+      <link>https://kotlin.fyi/foldables/</link>
+      <pubDate>Wed, 02 Dec 2020 15:36:06 -0000</pubDate>
+      <source url="https://kotlin.fyi/feed_rss_updated.xml">Kotlin FYI</source>
+      <guid isPermaLink="true">https://kotlin.fyi/foldables/</guid>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <description># #100DaysOfKotlin
+
+I kickstarted my [#100DaysOfKotlin](http://127.0.0.1:8000/home/about/#what-is-100daysofkotlin) challenge on Dec 1, 2020. This page</description>
+      <link>https://kotlin.fyi/home/100days/</link>
+      <pubDate>Wed, 02 Dec 2020 15:36:06 -0000</pubDate>
+      <source url="https://kotlin.fyi/feed_rss_updated.xml">Kotlin FYI</source>
+      <guid isPermaLink="true">https://kotlin.fyi/home/100days/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <description># Welcome to my Kotlin corner! [^1] 
+
+![Mobile Phone Image Credited to undraw.co.](assets/img/banner.png){: loading=lazy }
+[^1]: Banner image credited</description>
+      <link>https://kotlin.fyi/</link>
+      <pubDate>Tue, 01 Dec 2020 22:29:59 -0000</pubDate>
+      <source url="https://kotlin.fyi/feed_rss_updated.xml">Kotlin FYI</source>
+      <guid isPermaLink="true">https://kotlin.fyi/</guid>
+      
+    </item>
+    
+    <item>
+      <title>TOC</title>
+      <description># Android Development with Kotlin
+
+[:fontawesome-solid-map: Trail Map](/home/roadmap){: .md-button .md-button--accent }
+
+??? warning &#34;Under Constructi</description>
       <link>https://kotlin.fyi/android/</link>
-      <pubDate>Tue, 01 Dec 2020 22:29:42 -0000</pubDate>
+      <pubDate>Tue, 01 Dec 2020 22:29:59 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_updated.xml">Kotlin FYI</source>
       <guid isPermaLink="true">https://kotlin.fyi/android/</guid>
       
     </item>
     
     <item>
-      <title>Website</title>
+      <title>About</title>
       <description># About Kotlin.FYI
 
 ## My Goal
 It is December 1, 2020 - and I&#39;m embarking on a #100DaysOfKotlin journey. I want to understand the language better and </description>
       <link>https://kotlin.fyi/home/about/</link>
-      <pubDate>Tue, 01 Dec 2020 22:29:42 -0000</pubDate>
+      <pubDate>Tue, 01 Dec 2020 22:29:59 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_updated.xml">Kotlin FYI</source>
       <guid isPermaLink="true">https://kotlin.fyi/home/about/</guid>
       
     </item>
     
     <item>
-      <title>Roadmap</title>
-      <description># Roadmap
+      <title>Trail Map</title>
+      <description># Trail Map
 
-In Progress</description>
+There are many resources for learning Kotlin - I picked a subset using two criteria:
+
+* `Relevance` | resources created by Jetbrains (Kot</description>
       <link>https://kotlin.fyi/home/roadmap/</link>
-      <pubDate>Tue, 01 Dec 2020 22:29:42 -0000</pubDate>
+      <pubDate>Tue, 01 Dec 2020 22:29:59 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_updated.xml">Kotlin FYI</source>
       <guid isPermaLink="true">https://kotlin.fyi/home/roadmap/</guid>
       
     </item>
     
     <item>
-      <title>100Days</title>
-      <description># Timeline
+      <title>TOC</title>
+      <description># Kotlin Development 
 
-This page tracks progress for the #100DaysOfKotlin initiative in reverse chronological order (most recent post first). Click on the linked</description>
-      <link>https://kotlin.fyi/home/timeline/</link>
-      <pubDate>Tue, 01 Dec 2020 22:29:42 -0000</pubDate>
-      <source url="https://kotlin.fyi/feed_rss_updated.xml">Kotlin FYI</source>
-      <guid isPermaLink="true">https://kotlin.fyi/home/timeline/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Introduction</title>
-      <description></description>
+[:fontawesome-solid-map: Trail Map](/home/roadmap){: .md-button .md-button--accent }
+
+??? warning &#34;Under Construction&#34;
+
+## 1. C</description>
       <link>https://kotlin.fyi/kotlin/</link>
-      <pubDate>Tue, 01 Dec 2020 22:29:42 -0000</pubDate>
+      <pubDate>Tue, 01 Dec 2020 22:29:59 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_updated.xml">Kotlin FYI</source>
       <guid isPermaLink="true">https://kotlin.fyi/kotlin/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Home</title>
-      <description># Welcome to Kotlin.FYI
-
-Hello and welcome to my Kotlin corner of the web! If you&#39;re new to the site, start at the [About](home/about) page. Subscribe</description>
-      <link>https://kotlin.fyi/</link>
-      <pubDate>Mon, 30 Nov 2020 21:52:22 -0000</pubDate>
-      <source url="https://kotlin.fyi/feed_rss_updated.xml">Kotlin FYI</source>
-      <guid isPermaLink="true">https://kotlin.fyi/</guid>
       
     </item>
     
