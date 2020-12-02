@@ -16,8 +16,8 @@
     <language>en</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Wed, 02 Dec 2020 15:38:00 -0000</pubDate>
-    <lastBuildDate>Wed, 02 Dec 2020 15:38:00 -0000</lastBuildDate>
+    <pubDate>Wed, 02 Dec 2020 15:50:50 -0000</pubDate>
+    <lastBuildDate>Wed, 02 Dec 2020 15:50:50 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -37,7 +37,7 @@
 ??? warning &#34;Under Construction&#34;
 </description>
       <link>https://kotlin.fyi/cloud/</link>
-      <pubDate>Wed, 02 Dec 2020 15:36:44 -0000</pubDate>
+      <pubDate>Wed, 02 Dec 2020 15:38:57 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
       <guid isPermaLink="true">https://kotlin.fyi/cloud/</guid>
       
@@ -51,7 +51,7 @@
 
 ??? warning &#34;Under Construction</description>
       <link>https://kotlin.fyi/foldables/</link>
-      <pubDate>Wed, 02 Dec 2020 15:36:44 -0000</pubDate>
+      <pubDate>Wed, 02 Dec 2020 15:38:57 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
       <guid isPermaLink="true">https://kotlin.fyi/foldables/</guid>
       
@@ -63,7 +63,7 @@
 
 I kickstarted my [#100DaysOfKotlin](http://127.0.0.1:8000/home/about/#what-is-100daysofkotlin) challenge on Dec 1, 2020. This page</description>
       <link>https://kotlin.fyi/home/100days/</link>
-      <pubDate>Wed, 02 Dec 2020 15:36:44 -0000</pubDate>
+      <pubDate>Wed, 02 Dec 2020 15:38:57 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
       <guid isPermaLink="true">https://kotlin.fyi/home/100days/</guid>
       
@@ -87,8 +87,10 @@ I kickstarted my [#100DaysOfKotlin](http://127.0.0.1:8000/home/about/#what-is-10
       <title>About</title>
       <description># About Kotlin.FYI
 
+[:fontawesome-solid-map-signs:{: .heartbeat } Learn about #100DaysOfKotlin](/home/100days){: .md-button }
+
 ## My Goal
-It is December 1, 2020 - and I&#39;m embarking on a #100DaysOfKotlin journey. I want to understand the language better and </description>
+It is Decemb</description>
       <link>https://kotlin.fyi/home/about/</link>
       <pubDate>Tue, 01 Dec 2020 22:29:59 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
@@ -100,9 +102,9 @@ It is December 1, 2020 - and I&#39;m embarking on a #100DaysOfKotlin journey. I 
       <title>Trail Map</title>
       <description># Trail Map
 
-There are many resources for learning Kotlin - I picked a subset using two criteria:
+[:fontawesome-solid-map-signs:{: .heartbeat } Learn about #100DaysOfKotlin](/home/100days){: .md-button }
 
-* `Relevance` | resources created by Jetbrains (Kot</description>
+There are many resources for l</description>
       <link>https://kotlin.fyi/home/roadmap/</link>
       <pubDate>Tue, 01 Dec 2020 22:29:59 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
@@ -129,9 +131,8 @@ There are many resources for learning Kotlin - I picked a subset using two crite
     <item>
       <title>Welcome</title>
       <description># Welcome to my Kotlin corner! [^1] 
-
 ![Mobile Phone Image Credited to undraw.co.](assets/img/banner.png){: loading=lazy }
-[^1]: Banner image credited</description>
+[^1]: Banner image credited </description>
       <link>https://kotlin.fyi/</link>
       <pubDate>Mon, 30 Nov 2020 21:52:22 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
