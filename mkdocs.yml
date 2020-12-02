@@ -19,15 +19,25 @@ edit_uri: ''
 # See: https://www.mkdocs.org/#adding-pages
 # See: https://www.mkdocs.org/user-guide/writing-your-docs/#file-layout
 nav:
-  - Home: index.md 
+  - Home: 
+    - Welcome: index.md 
+    - About: home/about.md
+    - Trail Map: home/roadmap.md
   - Kotlin:
-    - Introduction: kotlin/index.md
+    - TOC: kotlin/index.md
+    - Trail Map: home/roadmap.md
   - Android: 
-    - Introduction: android/index.md
-  - About: 
-    - Website : home/about.md
-    - Roadmap: home/roadmap.md
-    - 100Days : home/timeline.md
+    - TOC: android/index.md
+    - Trail Map: home/roadmap.md
+  - Foldables: 
+    - TOC: foldables/index.md
+    - Trail Map: home/roadmap.md
+  - Cloud: 
+    - TOC: cloud/index.md
+    - Trail Map: home/roadmap.md
+  - 100Days: 
+    - About: home/100days.md
+    - Trail Map: home/roadmap.md
 
 # Build Directories 
 # Includes: 
@@ -87,7 +97,7 @@ theme:
     search: 83    # s
   features:
     - navigation.tabs
-  navigation_depth: 3
+  navigation_depth: 2
   nav_style: dark
   # 3. Change language: https://squidfunk.github.io/mkdocs-material/setup/changing-the-language/
   language: en

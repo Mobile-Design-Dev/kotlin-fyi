@@ -31,8 +31,8 @@ In other words, this is a great time to learn Kotlin and join the community!
 
 This was inspired by the [100DaysOfCode](https://www.100daysofcode.com/about/) challenge where you commit to working on a coding initiative every day for 100 days, leading to ingrained and consistent habits that improve your comprehension, retention and recall. I'm adopting a more flexible approach where I will:
 
- - create an evolving [roadmap](home/roadmap) of things I want to learn.
- - document progress on the [#100DaysOfCode](home/timeline) page
+ - create an evolving [roadmap](/home/roadmap) of things I want to learn.
+ - document progress on the [#100DaysOfCode](/home/100Days) page
  - share updates on [@kotlinfyi](https://twitter.com/kotlinfyi)
 
 

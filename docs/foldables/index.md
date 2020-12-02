@@ -1,4 +1,4 @@
-# Android Development with Kotlin
+# Working with Foldable Devices
 
 [:fontawesome-solid-map: Trail Map](/home/roadmap){: .md-button .md-button--accent }
 
@@ -6,4 +6,5 @@
 
 
 [:fontawesome-brands-twitter:{: .twitter } Follow @kotlinfyi](https://twitter.com/kotlinfyi){: .md-button .md-button--primary }
+
 
