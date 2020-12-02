@@ -1,7 +1,8 @@
 # Welcome to my Kotlin corner! [^1] 
-
 ![Mobile Phone Image Credited to undraw.co.](assets/img/banner.png){: loading=lazy }
 [^1]: Banner image credited to [undraw.co](https://undraw.co/)
+
+[:fontawesome-solid-map-signs:{: .heartbeat } Learn about #100DaysOfKotlin](/home/100days){: .md-button }
 
 If you're a first-time visitor, the main purpose of this site is to document and share my learning journey with Kotlin. I have three goals: 
 
@@ -11,26 +12,21 @@ If you're a first-time visitor, the main purpose of this site is to document and
 
 Visit the [About](home/about) page to learn more. You can get regular updates by subscribing to the [RSS Feed](feed_rss_created.xml) or by following [@kotlinfyi](https://twitter.com/kotlinfyi) on Twitter. Feedback (questions or comments) are also welcome - just **[submit an issue](https://github.com/Mobile-Design-Dev/kotlin-fyi/issues/new)** with your resource recommendations or insights.
 
-[:fontawesome-brands-twitter:{: .twitter .heartbeat }  Follow @kotlinfyi](https://twitter.com/kotlinfyi){: .md-button .md-button--primary }
-
-**Under the hood: **
-The site was built using [Mkdocs](https://mkdocs.org) with the [Material theme](https://squidfunk.github.io/mkdocs-material/) and reflects my love for all things documentation! :heart:{: .heartbeat }. I'm still learning about its amazing features so expect the site to change and evolve as I explore this further!
-
 ---
 
-## News
+## News & Activity
 
-!!! example "December 2020"
+!!! tip "December 2020"
 
+ * **Dec 2** |  Website updated with [#100DaysOfKotlin](/home/100days)
  * **Dec 1** |  Jetbrains launched a [Kotlin For Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers) course on Coursera starting today. It's free to audit or you can pay for certification. The course is spread over 5 weeks and should take ~25 hours to complete on a normal pace. I'll be checking it out soon!
 
 ---
 
-## Activity
 
+**Under the hood: **
+The site was built using [Mkdocs](https://mkdocs.org) with the [Material theme](https://squidfunk.github.io/mkdocs-material/) and reflects my love for all things documentation! :heart:{: .heartbeat }. I'm still learning about its amazing features so expect the site to change and evolve as I explore this further!
 
-!!! tip "#100DaysOfKotlin"
-
- * ** Dec 1** | Published [kotlin.fyi](https://kotlin.fyi) website using [mkdocs-material](https://squidfunk.github.io/mkdocs-material/) theme. Wrote [about](home/about) my goals for [#100DaysOfKotlin](home/100Days) and began collecting relevant resources to explore
+[:fontawesome-brands-twitter:{: .twitter}  Follow @kotlinfyi](https://twitter.com/kotlinfyi){: .md-button .md-button--primary }
 
 ---

@@ -1,5 +1,7 @@
 # About Kotlin.FYI
 
+[:fontawesome-solid-map-signs:{: .heartbeat } Learn about #100DaysOfKotlin](/home/100days){: .md-button }
+
 ## My Goal
 It is December 1, 2020 - and I'm embarking on a #100DaysOfKotlin journey. I want to understand the language better and learn to use [Kotlin](https://kotlinlang.org) more productively across the broad ecosystem of targets that it currently supports -- starting with Android.
 

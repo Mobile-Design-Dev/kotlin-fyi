@@ -1,5 +1,7 @@
 # Trail Map
 
+[:fontawesome-solid-map-signs:{: .heartbeat } Learn about #100DaysOfKotlin](/home/100days){: .md-button }
+
 There are many resources for learning Kotlin - I picked a subset using two criteria:
 
 * `Relevance` | resources created by Jetbrains (Kotlin maintainer), Google (Android maintainer) or community authors offering unique perspectives.
