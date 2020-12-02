@@ -16,8 +16,8 @@
     <language>en</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Wed, 02 Dec 2020 15:50:50 -0000</pubDate>
-    <lastBuildDate>Wed, 02 Dec 2020 15:50:50 -0000</lastBuildDate>
+    <pubDate>Wed, 02 Dec 2020 17:00:00 -0000</pubDate>
+    <lastBuildDate>Wed, 02 Dec 2020 17:00:00 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -29,14 +29,67 @@
     <!-- Entries -->
     
     <item>
+      <title>Microsoft Azure</title>
+      <description># Microsoft Azure
+
+&gt; _Disclosure:_ &lt;br/&gt; I am currently a [Senior Cloud Advocate at Microsoft](https://twitter.com/azureadvocates) and hope to use thi</description>
+      <link>https://kotlin.fyi/cloud/azure/</link>
+      <pubDate>Wed, 02 Dec 2020 17:00:01 -0000</pubDate>
+      <source url="https://kotlin.fyi/feed_rss_updated.xml">Kotlin FYI</source>
+      <guid isPermaLink="true">https://kotlin.fyi/cloud/azure/</guid>
+      
+    </item>
+    
+    <item>
       <title>Welcome</title>
       <description># Welcome to my Kotlin corner! [^1] 
 ![Mobile Phone Image Credited to undraw.co.](assets/img/banner.png){: loading=lazy }
 [^1]: Banner image credited </description>
       <link>https://kotlin.fyi/</link>
-      <pubDate>Wed, 02 Dec 2020 15:38:57 -0000</pubDate>
+      <pubDate>Wed, 02 Dec 2020 15:51:07 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_updated.xml">Kotlin FYI</source>
       <guid isPermaLink="true">https://kotlin.fyi/</guid>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <description># #100DaysOfKotlin
+
+I kickstarted my [#100DaysOfKotlin](http://127.0.0.1:8000/home/about/#what-is-100daysofkotlin) challenge on Dec 1, 2020. This page</description>
+      <link>https://kotlin.fyi/home/100days/</link>
+      <pubDate>Wed, 02 Dec 2020 15:51:07 -0000</pubDate>
+      <source url="https://kotlin.fyi/feed_rss_updated.xml">Kotlin FYI</source>
+      <guid isPermaLink="true">https://kotlin.fyi/home/100days/</guid>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <description># About Kotlin.FYI
+
+[:fontawesome-solid-map-signs:{: .heartbeat } Learn about #100DaysOfKotlin](/home/100days){: .md-button }
+
+## My Goal
+It is Decemb</description>
+      <link>https://kotlin.fyi/home/about/</link>
+      <pubDate>Wed, 02 Dec 2020 15:51:07 -0000</pubDate>
+      <source url="https://kotlin.fyi/feed_rss_updated.xml">Kotlin FYI</source>
+      <guid isPermaLink="true">https://kotlin.fyi/home/about/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Trail Map</title>
+      <description># Trail Map
+
+[:fontawesome-solid-map-signs:{: .heartbeat } Learn about #100DaysOfKotlin](/home/100days){: .md-button }
+
+There are many resources for l</description>
+      <link>https://kotlin.fyi/home/roadmap/</link>
+      <pubDate>Wed, 02 Dec 2020 15:51:07 -0000</pubDate>
+      <source url="https://kotlin.fyi/feed_rss_updated.xml">Kotlin FYI</source>
+      <guid isPermaLink="true">https://kotlin.fyi/home/roadmap/</guid>
       
     </item>
     
@@ -56,12 +109,9 @@
     
     <item>
       <title>TOC</title>
-      <description># Kotlin &amp; Cloud Integrations
+      <description># Cloud Integrations For the Kotlin Developer
 
-[:fontawesome-solid-map: Trail Map](/home/roadmap){: .md-button .md-button--accent }
-
-??? warning &#34;Under Construction&#34;
-</description>
+[:fontawesome-solid-map-signs:{: .heartbeat } Learn about #100DaysOfKotlin](/home/100days){: .md-button</description>
       <link>https://kotlin.fyi/cloud/</link>
       <pubDate>Wed, 02 Dec 2020 15:38:57 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_updated.xml">Kotlin FYI</source>
@@ -80,47 +130,6 @@
       <pubDate>Wed, 02 Dec 2020 15:38:57 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_updated.xml">Kotlin FYI</source>
       <guid isPermaLink="true">https://kotlin.fyi/foldables/</guid>
-      
-    </item>
-    
-    <item>
-      <title>About</title>
-      <description># #100DaysOfKotlin
-
-I kickstarted my [#100DaysOfKotlin](http://127.0.0.1:8000/home/about/#what-is-100daysofkotlin) challenge on Dec 1, 2020. This page</description>
-      <link>https://kotlin.fyi/home/100days/</link>
-      <pubDate>Wed, 02 Dec 2020 15:38:57 -0000</pubDate>
-      <source url="https://kotlin.fyi/feed_rss_updated.xml">Kotlin FYI</source>
-      <guid isPermaLink="true">https://kotlin.fyi/home/100days/</guid>
-      
-    </item>
-    
-    <item>
-      <title>About</title>
-      <description># About Kotlin.FYI
-
-[:fontawesome-solid-map-signs:{: .heartbeat } Learn about #100DaysOfKotlin](/home/100days){: .md-button }
-
-## My Goal
-It is Decemb</description>
-      <link>https://kotlin.fyi/home/about/</link>
-      <pubDate>Wed, 02 Dec 2020 15:38:57 -0000</pubDate>
-      <source url="https://kotlin.fyi/feed_rss_updated.xml">Kotlin FYI</source>
-      <guid isPermaLink="true">https://kotlin.fyi/home/about/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Trail Map</title>
-      <description># Trail Map
-
-[:fontawesome-solid-map-signs:{: .heartbeat } Learn about #100DaysOfKotlin](/home/100days){: .md-button }
-
-There are many resources for l</description>
-      <link>https://kotlin.fyi/home/roadmap/</link>
-      <pubDate>Wed, 02 Dec 2020 15:38:57 -0000</pubDate>
-      <source url="https://kotlin.fyi/feed_rss_updated.xml">Kotlin FYI</source>
-      <guid isPermaLink="true">https://kotlin.fyi/home/roadmap/</guid>
       
     </item>
     
