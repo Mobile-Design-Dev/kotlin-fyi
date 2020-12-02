@@ -16,8 +16,8 @@
     <language>en</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Wed, 02 Dec 2020 15:36:06 -0000</pubDate>
-    <lastBuildDate>Wed, 02 Dec 2020 15:36:06 -0000</lastBuildDate>
+    <pubDate>Wed, 02 Dec 2020 15:38:00 -0000</pubDate>
+    <lastBuildDate>Wed, 02 Dec 2020 15:38:00 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -37,7 +37,7 @@
 ??? warning &#34;Under Construction&#34;
 </description>
       <link>https://kotlin.fyi/cloud/</link>
-      <pubDate>Wed, 02 Dec 2020 15:36:06 -0000</pubDate>
+      <pubDate>Wed, 02 Dec 2020 15:36:44 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
       <guid isPermaLink="true">https://kotlin.fyi/cloud/</guid>
       
@@ -51,7 +51,7 @@
 
 ??? warning &#34;Under Construction</description>
       <link>https://kotlin.fyi/foldables/</link>
-      <pubDate>Wed, 02 Dec 2020 15:36:06 -0000</pubDate>
+      <pubDate>Wed, 02 Dec 2020 15:36:44 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
       <guid isPermaLink="true">https://kotlin.fyi/foldables/</guid>
       
@@ -63,7 +63,7 @@
 
 I kickstarted my [#100DaysOfKotlin](http://127.0.0.1:8000/home/about/#what-is-100daysofkotlin) challenge on Dec 1, 2020. This page</description>
       <link>https://kotlin.fyi/home/100days/</link>
-      <pubDate>Wed, 02 Dec 2020 15:36:06 -0000</pubDate>
+      <pubDate>Wed, 02 Dec 2020 15:36:44 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
       <guid isPermaLink="true">https://kotlin.fyi/home/100days/</guid>
       
