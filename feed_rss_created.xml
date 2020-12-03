@@ -16,8 +16,8 @@
     <language>en</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Wed, 02 Dec 2020 17:00:00 -0000</pubDate>
-    <lastBuildDate>Wed, 02 Dec 2020 17:00:00 -0000</lastBuildDate>
+    <pubDate>Thu, 03 Dec 2020 16:50:55 -0000</pubDate>
+    <lastBuildDate>Thu, 03 Dec 2020 16:50:55 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -32,19 +32,23 @@
       <title>Microsoft Azure</title>
       <description># Microsoft Azure
 
-&gt; _Disclosure:_ &lt;br/&gt; I am currently a [Senior Cloud Advocate at Microsoft](https://twitter.com/azureadvocates) and hope to use thi</description>
+## About Azure 
+
+[Azure](https://azure.microsoft.com/?WT.mc_id=mobile-9644-ninarasi) is Microsoft&#39;s cloud computing and AI platform</description>
       <link>https://kotlin.fyi/cloud/azure/</link>
-      <pubDate>Wed, 02 Dec 2020 17:00:01 -0000</pubDate>
+      <pubDate>Thu, 03 Dec 2020 16:50:56 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
       <guid isPermaLink="true">https://kotlin.fyi/cloud/azure/</guid>
       
     </item>
     
     <item>
-      <title>TOC</title>
+      <title>Hello Cloud!</title>
       <description># Cloud Integrations For the Kotlin Developer
 
-[:fontawesome-solid-map-signs:{: .heartbeat } Learn about #100DaysOfKotlin](/home/100days){: .md-button</description>
+## Plan
+
+As a Kotlin developer, you might find Android development to be the most mature path even as  </description>
       <link>https://kotlin.fyi/cloud/</link>
       <pubDate>Wed, 02 Dec 2020 15:38:57 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
@@ -53,12 +57,14 @@
     </item>
     
     <item>
-      <title>TOC</title>
-      <description># Working with Foldable Devices
+      <title>Hello Foldables!</title>
+      <description># Hello, Foldables!
 
-[:fontawesome-solid-map: Trail Map](/home/roadmap){: .md-button .md-button--accent }
+## Plan
 
-??? warning &#34;Under Construction</description>
+??? info &#34;What are Foldables?&#34;
+
+    The term &#34;Foldables&#34; refers here to smartphones that fold, giving rise to mobile dev</description>
       <link>https://kotlin.fyi/foldables/</link>
       <pubDate>Wed, 02 Dec 2020 15:38:57 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
@@ -67,10 +73,12 @@
     </item>
     
     <item>
-      <title>About</title>
-      <description># #100DaysOfKotlin
+      <title>Activity</title>
+      <description># :fontawesome-solid-map-signs:{: .heartbeat } #100DaysOfKotlin
 
-I kickstarted my [#100DaysOfKotlin](http://127.0.0.1:8000/home/about/#what-is-100daysofkotlin) challenge on Dec 1, 2020. This page</description>
+## Purpose 
+
+I kickstarted my [#100DaysOfKotlin](/home/about/#what-is-100daysofkotlin</description>
       <link>https://kotlin.fyi/home/100days/</link>
       <pubDate>Wed, 02 Dec 2020 15:38:57 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
@@ -79,12 +87,12 @@ I kickstarted my [#100DaysOfKotlin](http://127.0.0.1:8000/home/about/#what-is-10
     </item>
     
     <item>
-      <title>TOC</title>
-      <description># Android Development with Kotlin
+      <title>Hello Android!</title>
+      <description># Hello, Android!
 
-[:fontawesome-solid-map: Trail Map](/home/roadmap){: .md-button .md-button--accent }
+## Plan
 
-??? warning &#34;Under Constructi</description>
+Once you&#39;ve mastered [Kotlin](/kotlin) core concepts, this is a good entry point to begin exploring Android development in</description>
       <link>https://kotlin.fyi/android/</link>
       <pubDate>Tue, 01 Dec 2020 22:29:59 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
@@ -109,11 +117,11 @@ It is Decemb</description>
     
     <item>
       <title>Trail Map</title>
-      <description># Trail Map
+      <description># :fontawesome-solid-map: Happy Trails! 
 
 [:fontawesome-solid-map-signs:{: .heartbeat } Learn about #100DaysOfKotlin](/home/100days){: .md-button }
 
-There are many resources for l</description>
+I</description>
       <link>https://kotlin.fyi/home/roadmap/</link>
       <pubDate>Tue, 01 Dec 2020 22:29:59 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
@@ -122,14 +130,12 @@ There are many resources for l</description>
     </item>
     
     <item>
-      <title>TOC</title>
-      <description># Kotlin Development 
+      <title>Hello Kotlin!</title>
+      <description># Hello, Kotlin!
 
-[:fontawesome-solid-map: Trail Map](/home/roadmap){: .md-button .md-button--accent }
+## Plan
 
-??? warning &#34;Under Construction&#34;
-
-## 1. C</description>
+This is the starting point for any [Kotlin](https://kotlinlang.org) learning journey and ideally follows the guidance laid </description>
       <link>https://kotlin.fyi/kotlin/</link>
       <pubDate>Tue, 01 Dec 2020 22:29:59 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
@@ -140,8 +146,10 @@ There are many resources for l</description>
     <item>
       <title>Welcome</title>
       <description># Welcome to my Kotlin corner! [^1] 
-![Mobile Phone Image Credited to undraw.co.](assets/img/banner.png){: loading=lazy }
-[^1]: Banner image credited </description>
+
+## Purpose
+
+If you&#39;re a first-time visitor, welcome!! I&#39;m glad you&#39;re here! The [main purpose of this site](home</description>
       <link>https://kotlin.fyi/</link>
       <pubDate>Mon, 30 Nov 2020 21:52:22 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
