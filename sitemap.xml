@@ -1,75 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://kotlin.fyi/</loc>
-     <lastmod>2020-12-03</lastmod>
+     <lastmod>2020-12-04</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://kotlin.fyi/kotlin/</loc>
-     <lastmod>2020-12-03</lastmod>
+     <lastmod>2020-12-04</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://kotlin.fyi/android/</loc>
-     <lastmod>2020-12-03</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://kotlin.fyi/cloud/</loc>
-     <lastmod>2020-12-03</lastmod>
+     <lastmod>2020-12-04</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://kotlin.fyi/foldables/</loc>
-     <lastmod>2020-12-03</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://kotlin.fyi/home/about/</loc>
-     <lastmod>2020-12-03</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://kotlin.fyi/home/100days/</loc>
-     <lastmod>2020-12-03</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://kotlin.fyi/kotlin/</loc>
-     <lastmod>2020-12-03</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://kotlin.fyi/home/100days/</loc>
-     <lastmod>2020-12-03</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://kotlin.fyi/android/</loc>
-     <lastmod>2020-12-03</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://kotlin.fyi/home/100days/</loc>
-     <lastmod>2020-12-03</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://kotlin.fyi/foldables/</loc>
-     <lastmod>2020-12-03</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://kotlin.fyi/home/100days/</loc>
-     <lastmod>2020-12-03</lastmod>
+     <lastmod>2020-12-04</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://kotlin.fyi/cloud/</loc>
-     <lastmod>2020-12-03</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://kotlin.fyi/home/100days/</loc>
-     <lastmod>2020-12-03</lastmod>
+     <lastmod>2020-12-04</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://kotlin.fyi/cloud/azure/</loc>
-     <lastmod>2020-12-03</lastmod>
+     <lastmod>2020-12-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://kotlin.fyi/home/about/</loc>
+     <lastmod>2020-12-04</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://kotlin.fyi/home/100days/</loc>
-     <lastmod>2020-12-03</lastmod>
+     <lastmod>2020-12-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://kotlin.fyi/kotlin/</loc>
+     <lastmod>2020-12-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://kotlin.fyi/home/100days/</loc>
+     <lastmod>2020-12-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://kotlin.fyi/android/</loc>
+     <lastmod>2020-12-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://kotlin.fyi/home/100days/</loc>
+     <lastmod>2020-12-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://kotlin.fyi/foldables/</loc>
+     <lastmod>2020-12-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://kotlin.fyi/home/100days/</loc>
+     <lastmod>2020-12-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://kotlin.fyi/cloud/</loc>
+     <lastmod>2020-12-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://kotlin.fyi/cloud/azure/</loc>
+     <lastmod>2020-12-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://kotlin.fyi/home/100days/</loc>
+     <lastmod>2020-12-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://kotlin.fyi/cloud/azure/</loc>
+     <lastmod>2020-12-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://kotlin.fyi/home/100days/</loc>
+     <lastmod>2020-12-04</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://kotlin.fyi/home/roadmap/</loc>
-     <lastmod>2020-12-03</lastmod>
+     <lastmod>2020-12-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>

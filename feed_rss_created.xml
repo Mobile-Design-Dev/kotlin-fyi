@@ -16,8 +16,8 @@
     <language>en</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Thu, 03 Dec 2020 16:50:55 -0000</pubDate>
-    <lastBuildDate>Thu, 03 Dec 2020 16:50:55 -0000</lastBuildDate>
+    <pubDate>Fri, 04 Dec 2020 17:00:35 -0000</pubDate>
+    <lastBuildDate>Fri, 04 Dec 2020 17:00:35 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -29,14 +29,12 @@
     <!-- Entries -->
     
     <item>
-      <title>Microsoft Azure</title>
-      <description># Microsoft Azure
+      <title>Hello Azure!</title>
+      <description># Hello Azure! 
 
-## About Azure 
-
-[Azure](https://azure.microsoft.com/?WT.mc_id=mobile-9644-ninarasi) is Microsoft&#39;s cloud computing and AI platform</description>
+Welcome to the &#34;Azure For Kotlin Developers&#34; section of this site! The objective here is to go from understanding broad cloud computi</description>
       <link>https://kotlin.fyi/cloud/azure/</link>
-      <pubDate>Thu, 03 Dec 2020 16:50:56 -0000</pubDate>
+      <pubDate>Fri, 04 Dec 2020 17:00:35 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
       <guid isPermaLink="true">https://kotlin.fyi/cloud/azure/</guid>
       
@@ -60,11 +58,11 @@ As a Kotlin developer, you might find Android development to be the most mature 
       <title>Hello Foldables!</title>
       <description># Hello, Foldables!
 
-## Plan
+## Overview
 
-??? info &#34;What are Foldables?&#34;
+??? question &#34;What are Foldables?&#34;
 
-    The term &#34;Foldables&#34; refers here to smartphones that fold, giving rise to mobile dev</description>
+    The term &#34;Foldables&#34; refers here to smartphones that fold, giving rise to mo</description>
       <link>https://kotlin.fyi/foldables/</link>
       <pubDate>Wed, 02 Dec 2020 15:38:57 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
