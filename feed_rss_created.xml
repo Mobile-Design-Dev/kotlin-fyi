@@ -16,8 +16,8 @@
     <language>en</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Thu, 10 Dec 2020 17:13:02 -0000</pubDate>
-    <lastBuildDate>Thu, 10 Dec 2020 17:13:02 -0000</lastBuildDate>
+    <pubDate>Fri, 11 Dec 2020 18:30:19 -0000</pubDate>
+    <lastBuildDate>Fri, 11 Dec 2020 18:30:19 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -29,64 +29,26 @@
     <!-- Entries -->
     
     <item>
-      <title>Hello Azure!</title>
-      <description># Hello Azure! 
-
-Welcome to the &#34;Azure For Kotlin Developers&#34; section of this site! The objective here is to go from understanding broad cloud computi</description>
-      <link>https://kotlin.fyi/parking-lot/cloud/azure/</link>
-      <pubDate>Thu, 10 Dec 2020 17:13:04 -0000</pubDate>
-      <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
-      <guid isPermaLink="true">https://kotlin.fyi/parking-lot/cloud/azure/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Hello, Foldables!</title>
-      <description># Hello, Foldables!
-
-## Overview
-
-??? question &#34;What are Foldables?&#34;
-
-    The term &#34;Foldables&#34; refers here to smartphones that fold, giving rise to mo</description>
-      <link>https://kotlin.fyi/parking-lot/foldables/</link>
-      <pubDate>Thu, 10 Dec 2020 17:13:04 -0000</pubDate>
-      <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
-      <guid isPermaLink="true">https://kotlin.fyi/parking-lot/foldables/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Index</title>
-      <description></description>
-      <link>https://kotlin.fyi/parking-lot/kotlin/</link>
-      <pubDate>Thu, 10 Dec 2020 17:13:04 -0000</pubDate>
-      <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
-      <guid isPermaLink="true">https://kotlin.fyi/parking-lot/kotlin/</guid>
-      
-    </item>
-    
-    <item>
       <title>Welcome</title>
       <description>{!includes/abbrev.md!}
 
 # Glossary
 
-This page defines abbreviations and frequently used terms in Kotlin. Sections will be added alphabetically to coll</description>
+This page defines abbreviations, brand names, and frequently used terms encountered by Kotlin developers. Sections</description>
       <link>https://kotlin.fyi/glossary/</link>
-      <pubDate>Thu, 10 Dec 2020 17:13:03 -0000</pubDate>
+      <pubDate>Fri, 11 Dec 2020 18:30:20 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
       <guid isPermaLink="true">https://kotlin.fyi/glossary/</guid>
       
     </item>
     
     <item>
-      <title>Welcome</title>
+      <title>About</title>
       <description># My #100DaysOfKotlin Challenge
 
 {!100days/about.md!}</description>
       <link>https://kotlin.fyi/100days/</link>
-      <pubDate>Thu, 10 Dec 2020 17:13:03 -0000</pubDate>
+      <pubDate>Fri, 11 Dec 2020 18:30:20 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
       <guid isPermaLink="true">https://kotlin.fyi/100days/</guid>
       
@@ -96,19 +58,19 @@ This page defines abbreviations and frequently used terms in Kotlin. Sections wi
       <title>About</title>
       <description>This is inspired by the [100DaysOfCode](https://www.100daysofcode.com/about/) challenge where you commit to working on a coding initiative every day f</description>
       <link>https://kotlin.fyi/100days/about/</link>
-      <pubDate>Thu, 10 Dec 2020 17:13:03 -0000</pubDate>
+      <pubDate>Fri, 11 Dec 2020 18:30:20 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
       <guid isPermaLink="true">https://kotlin.fyi/100days/about/</guid>
       
     </item>
     
     <item>
-      <title>Journal</title>
-      <description># Learning Journal
+      <title>Timeline</title>
+      <description># Timelines and Rabbit Holes
 
-Till I establish a routine and cadence, I am going to treat &#34;day&#34; as a time period and not a calendr. Work done reflects a 24-hour</description>
+The [roadmap](/100days/roadmap) is about what I want to cover over the 100 days. This **timeline** page tells you how I </description>
       <link>https://kotlin.fyi/100days/journal/</link>
-      <pubDate>Thu, 10 Dec 2020 17:13:03 -0000</pubDate>
+      <pubDate>Fri, 11 Dec 2020 18:30:20 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
       <guid isPermaLink="true">https://kotlin.fyi/100days/journal/</guid>
       
@@ -121,7 +83,7 @@ Till I establish a routine and cadence, I am going to treat &#34;day&#34; as a t
 
 The current sitemap is structured to provide hierarchical navigation (Levels 100-400) with </description>
       <link>https://kotlin.fyi/100days/roadmap/</link>
-      <pubDate>Thu, 10 Dec 2020 17:13:03 -0000</pubDate>
+      <pubDate>Fri, 11 Dec 2020 18:30:20 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
       <guid isPermaLink="true">https://kotlin.fyi/100days/roadmap/</guid>
       
@@ -129,62 +91,67 @@ The current sitemap is structured to provide hierarchical navigation (Levels 100
     
     <item>
       <title>Abbrev</title>
-      <description>*[KMM]: Kotlin Mobile Multiplatform </description>
+      <description>*[DSL]: Domain Specific Language - computer language optimized for an application domain.
+
+*[Gradle]: Build and automation tool. See https://gradle.or</description>
       <link>https://kotlin.fyi/includes/abbrev/</link>
-      <pubDate>Thu, 10 Dec 2020 17:13:03 -0000</pubDate>
+      <pubDate>Fri, 11 Dec 2020 18:30:20 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
       <guid isPermaLink="true">https://kotlin.fyi/includes/abbrev/</guid>
       
     </item>
     
     <item>
-      <title>Hello, Android!</title>
-      <description># Hello, Android!
+      <title>1. Setup IDE</title>
+      <description># Setup: Your Development Environments
 
-## Plan
+{!includes/abbrev.md!}
 
-Once you&#39;ve mastered [Kotlin](/kotlin) core concepts, this is a good entry point to begin exploring Android development in</description>
-      <link>https://kotlin.fyi/parking-lot/android/</link>
-      <pubDate>Thu, 10 Dec 2020 17:13:03 -0000</pubDate>
+???+ example &#34;Referenced Resources&#34;
+
+    1. [About IntelliJ IDEA](https://www.jetbrain</description>
+      <link>https://kotlin.fyi/posts/kotlin-001-setup/</link>
+      <pubDate>Fri, 11 Dec 2020 18:30:20 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
-      <guid isPermaLink="true">https://kotlin.fyi/parking-lot/android/</guid>
+      <guid isPermaLink="true">https://kotlin.fyi/posts/kotlin-001-setup/</guid>
       
     </item>
     
     <item>
-      <title>Cloud Integrations For the Kotlin Developer</title>
-      <description># Cloud Integrations For the Kotlin Developer
+      <title>2. First Kotlin App</title>
+      <description># The First Kotlin App
 
-## Plan
+{!includes/abbrev.md!}
 
-As a Kotlin developer, you might find Android development to be the most mature path even as  </description>
-      <link>https://kotlin.fyi/parking-lot/cloud/</link>
-      <pubDate>Thu, 10 Dec 2020 17:13:03 -0000</pubDate>
+???+ quote &#34;Helpful Resources&#34;
+
+    1. [Setup: Command Line Compiler](https://kotlinlang.org/docs/tuto</description>
+      <link>https://kotlin.fyi/posts/kotlin-002-firstapp/</link>
+      <pubDate>Fri, 11 Dec 2020 18:30:20 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
-      <guid isPermaLink="true">https://kotlin.fyi/parking-lot/cloud/</guid>
+      <guid isPermaLink="true">https://kotlin.fyi/posts/kotlin-002-firstapp/</guid>
       
     </item>
     
     <item>
-      <title>:fontawesome-solid-map-signs:{: .heartbeat } #100DaysOfKotlin</title>
-      <description># :fontawesome-solid-map-signs:{: .heartbeat } #100DaysOfKotlin
-</description>
-      <link>https://kotlin.fyi/home/100days/</link>
-      <pubDate>Wed, 02 Dec 2020 15:38:57 -0000</pubDate>
+      <title>Kotlin 0033 firstkoans</title>
+      <description></description>
+      <link>https://kotlin.fyi/posts/kotlin-0033-firstkoans/</link>
+      <pubDate>Fri, 11 Dec 2020 18:30:20 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
-      <guid isPermaLink="true">https://kotlin.fyi/home/100days/</guid>
+      <guid isPermaLink="true">https://kotlin.fyi/posts/kotlin-0033-firstkoans/</guid>
       
     </item>
     
     <item>
       <title>Welcome</title>
-      <description>[:fontawesome-solid-map-signs:{: .heartbeat } #100DaysOfKotlin - Basics to Multiplatform](/home/100days){: .md-button .md-button--primary}
+      <description>??? info &#34;Under The Hood: MkDocs-Material&#34;
 
-??? info &#34;</description>
-      <link>https://kotlin.fyi/home/about/</link>
-      <pubDate>Tue, 01 Dec 2020 22:29:59 -0000</pubDate>
+    The site built with [Mkdocs](https://mkdocs.org) and the [Material theme](https://squidfunk.github.io/</description>
+      <link>https://kotlin.fyi/about/</link>
+      <pubDate>Fri, 11 Dec 2020 18:30:19 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
-      <guid isPermaLink="true">https://kotlin.fyi/home/about/</guid>
+      <guid isPermaLink="true">https://kotlin.fyi/about/</guid>
       
     </item>
     

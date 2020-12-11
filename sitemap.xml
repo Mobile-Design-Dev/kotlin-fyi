@@ -1,39 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://kotlin.fyi/</loc>
-     <lastmod>2020-12-10</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://kotlin.fyi/home/about/</loc>
-     <lastmod>2020-12-10</lastmod>
+     <lastmod>2020-12-11</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://kotlin.fyi/100days/</loc>
-     <lastmod>2020-12-10</lastmod>
+     <lastmod>2020-12-11</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://kotlin.fyi/glossary/</loc>
-     <lastmod>2020-12-10</lastmod>
+     <lastmod>2020-12-11</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://kotlin.fyi/100days/</loc>
-     <lastmod>2020-12-10</lastmod>
+     <loc>https://kotlin.fyi/about/</loc>
+     <lastmod>2020-12-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://kotlin.fyi/posts/kotlin-001-setup/</loc>
+     <lastmod>2020-12-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://kotlin.fyi/posts/kotlin-002-firstapp/</loc>
+     <lastmod>2020-12-11</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://kotlin.fyi/100days/roadmap/</loc>
-     <lastmod>2020-12-10</lastmod>
+     <lastmod>2020-12-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://kotlin.fyi/100days/</loc>
+     <lastmod>2020-12-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://kotlin.fyi/100days/roadmap/</loc>
+     <lastmod>2020-12-11</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://kotlin.fyi/100days/journal/</loc>
-     <lastmod>2020-12-10</lastmod>
+     <lastmod>2020-12-11</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://kotlin.fyi/glossary/</loc>
-     <lastmod>2020-12-10</lastmod>
+     <lastmod>2020-12-11</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://kotlin.fyi/home/about/</loc>
-     <lastmod>2020-12-10</lastmod>
+     <loc>https://kotlin.fyi/about/</loc>
+     <lastmod>2020-12-11</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
