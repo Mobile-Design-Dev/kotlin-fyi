@@ -16,8 +16,8 @@
     <language>en</language>
 
     <!-- Timestamps and frequency -->
-    <pubDate>Fri, 11 Dec 2020 18:30:19 -0000</pubDate>
-    <lastBuildDate>Fri, 11 Dec 2020 18:30:19 -0000</lastBuildDate>
+    <pubDate>Fri, 11 Dec 2020 18:58:06 -0000</pubDate>
+    <lastBuildDate>Fri, 11 Dec 2020 18:58:06 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     <!-- Credits -->
@@ -30,13 +30,25 @@
     
     <item>
       <title>Welcome</title>
+      <description>??? info &#34;Under The Hood: MkDocs-Material&#34;
+
+    The site built with [Mkdocs](https://mkdocs.org) and the [Material theme](https://squidfunk.github.io/</description>
+      <link>https://kotlin.fyi/about/</link>
+      <pubDate>Fri, 11 Dec 2020 18:58:07 -0000</pubDate>
+      <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
+      <guid isPermaLink="true">https://kotlin.fyi/about/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Welcome</title>
       <description>{!includes/abbrev.md!}
 
 # Glossary
 
 This page defines abbreviations, brand names, and frequently used terms encountered by Kotlin developers. Sections</description>
       <link>https://kotlin.fyi/glossary/</link>
-      <pubDate>Fri, 11 Dec 2020 18:30:20 -0000</pubDate>
+      <pubDate>Fri, 11 Dec 2020 18:58:07 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
       <guid isPermaLink="true">https://kotlin.fyi/glossary/</guid>
       
@@ -48,7 +60,7 @@ This page defines abbreviations, brand names, and frequently used terms encounte
 
 {!100days/about.md!}</description>
       <link>https://kotlin.fyi/100days/</link>
-      <pubDate>Fri, 11 Dec 2020 18:30:20 -0000</pubDate>
+      <pubDate>Fri, 11 Dec 2020 18:58:07 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
       <guid isPermaLink="true">https://kotlin.fyi/100days/</guid>
       
@@ -58,7 +70,7 @@ This page defines abbreviations, brand names, and frequently used terms encounte
       <title>About</title>
       <description>This is inspired by the [100DaysOfCode](https://www.100daysofcode.com/about/) challenge where you commit to working on a coding initiative every day f</description>
       <link>https://kotlin.fyi/100days/about/</link>
-      <pubDate>Fri, 11 Dec 2020 18:30:20 -0000</pubDate>
+      <pubDate>Fri, 11 Dec 2020 18:58:07 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
       <guid isPermaLink="true">https://kotlin.fyi/100days/about/</guid>
       
@@ -70,7 +82,7 @@ This page defines abbreviations, brand names, and frequently used terms encounte
 
 The [roadmap](/100days/roadmap) is about what I want to cover over the 100 days. This **timeline** page tells you how I </description>
       <link>https://kotlin.fyi/100days/journal/</link>
-      <pubDate>Fri, 11 Dec 2020 18:30:20 -0000</pubDate>
+      <pubDate>Fri, 11 Dec 2020 18:58:07 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
       <guid isPermaLink="true">https://kotlin.fyi/100days/journal/</guid>
       
@@ -83,7 +95,7 @@ The [roadmap](/100days/roadmap) is about what I want to cover over the 100 days.
 
 The current sitemap is structured to provide hierarchical navigation (Levels 100-400) with </description>
       <link>https://kotlin.fyi/100days/roadmap/</link>
-      <pubDate>Fri, 11 Dec 2020 18:30:20 -0000</pubDate>
+      <pubDate>Fri, 11 Dec 2020 18:58:07 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
       <guid isPermaLink="true">https://kotlin.fyi/100days/roadmap/</guid>
       
@@ -95,7 +107,7 @@ The current sitemap is structured to provide hierarchical navigation (Levels 100
 
 *[Gradle]: Build and automation tool. See https://gradle.or</description>
       <link>https://kotlin.fyi/includes/abbrev/</link>
-      <pubDate>Fri, 11 Dec 2020 18:30:20 -0000</pubDate>
+      <pubDate>Fri, 11 Dec 2020 18:58:07 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
       <guid isPermaLink="true">https://kotlin.fyi/includes/abbrev/</guid>
       
@@ -107,11 +119,11 @@ The current sitemap is structured to provide hierarchical navigation (Levels 100
 
 {!includes/abbrev.md!}
 
-???+ example &#34;Referenced Resources&#34;
+???+ quote &#34;Helpful Resources&#34;
 
-    1. [About IntelliJ IDEA](https://www.jetbrain</description>
+    1. [About IntelliJ IDEA](https://www.jetbrains.com</description>
       <link>https://kotlin.fyi/posts/kotlin-001-setup/</link>
-      <pubDate>Fri, 11 Dec 2020 18:30:20 -0000</pubDate>
+      <pubDate>Fri, 11 Dec 2020 18:58:07 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
       <guid isPermaLink="true">https://kotlin.fyi/posts/kotlin-001-setup/</guid>
       
@@ -127,31 +139,25 @@ The current sitemap is structured to provide hierarchical navigation (Levels 100
 
     1. [Setup: Command Line Compiler](https://kotlinlang.org/docs/tuto</description>
       <link>https://kotlin.fyi/posts/kotlin-002-firstapp/</link>
-      <pubDate>Fri, 11 Dec 2020 18:30:20 -0000</pubDate>
+      <pubDate>Fri, 11 Dec 2020 18:58:07 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
       <guid isPermaLink="true">https://kotlin.fyi/posts/kotlin-002-firstapp/</guid>
       
     </item>
     
     <item>
-      <title>Kotlin 0033 firstkoans</title>
-      <description></description>
-      <link>https://kotlin.fyi/posts/kotlin-0033-firstkoans/</link>
-      <pubDate>Fri, 11 Dec 2020 18:30:20 -0000</pubDate>
-      <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
-      <guid isPermaLink="true">https://kotlin.fyi/posts/kotlin-0033-firstkoans/</guid>
-      
-    </item>
-    
-    <item>
-      <title>Welcome</title>
-      <description>??? info &#34;Under The Hood: MkDocs-Material&#34;
+      <title>3. First Kotlin Koan</title>
+      <description># The First Kotlin Koan
 
-    The site built with [Mkdocs](https://mkdocs.org) and the [Material theme](https://squidfunk.github.io/</description>
-      <link>https://kotlin.fyi/about/</link>
-      <pubDate>Fri, 11 Dec 2020 18:30:19 -0000</pubDate>
+{!includes/abbrev.md!}
+
+???+ quote &#34;Helpful Resources&#34;
+
+    * [Kotlin Koans](https://kotlinlang.org/docs/tutorials/koans.html</description>
+      <link>https://kotlin.fyi/posts/kotlin-003-firstkoans/</link>
+      <pubDate>Fri, 11 Dec 2020 18:58:07 -0000</pubDate>
       <source url="https://kotlin.fyi/feed_rss_created.xml">Kotlin FYI</source>
-      <guid isPermaLink="true">https://kotlin.fyi/about/</guid>
+      <guid isPermaLink="true">https://kotlin.fyi/posts/kotlin-003-firstkoans/</guid>
       
     </item>
     

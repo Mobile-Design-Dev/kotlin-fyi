@@ -10,7 +10,7 @@
       
       
       
-        <link rel="canonical" href="https://kotlin.fyi/posts/kotlin-0033-firstkoans/">
+        <link rel="canonical" href="https://kotlin.fyi/posts/kotlin-003-firstkoans/">
       
       
         <meta name="author" content="Nitya Narasimhan (@nitya)">
@@ -20,7 +20,7 @@
     
     
       
-        <title>Kotlin 0033 firstkoans - Kotlin FYI</title>
+        <title>3. First Kotlin Koan - Kotlin FYI</title>
       
     
     
@@ -68,6 +68,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#the-first-kotlin-koan" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -94,7 +99,7 @@
           </span>
           <span class="md-header-nav__topic md-ellipsis">
             
-              Kotlin 0033 firstkoans
+              3. First Kotlin Koan
             
           </span>
         </div>
@@ -154,7 +159,9 @@
         
           
 
-<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  
+
+<nav class="md-tabs md-tabs--active" aria-label="Tabs" data-md-component="tabs">
   <div class="md-tabs__inner md-grid">
     <ul class="md-tabs__list">
       
@@ -185,7 +192,9 @@
     <li class="md-tabs__item">
       
       
-      <a href="../kotlin-001-setup/" class="md-tabs__link">
+        
+      
+      <a href="../kotlin-001-setup/" class="md-tabs__link md-tabs__link--active">
         Posts
       </a>
     </li>
@@ -364,10 +373,12 @@
       
       
 
+  
 
-  <li class="md-nav__item md-nav__item--nested">
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
     
-    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2" >
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2" checked>
     <label class="md-nav__link" for="nav-2">
       Posts
       <span class="md-nav__icon md-icon"></span>
@@ -384,10 +395,12 @@
           
           
 
+  
 
-  <li class="md-nav__item md-nav__item--nested">
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
     
-    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-2-1" type="checkbox" id="nav-2-1" >
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-2-1" type="checkbox" id="nav-2-1" checked>
     <label class="md-nav__link" for="nav-2-1">
       100 Kotlin Core
       <span class="md-nav__icon md-icon"></span>
@@ -404,10 +417,12 @@
           
           
 
+  
 
-  <li class="md-nav__item md-nav__item--nested">
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
     
-    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-2-1-1" type="checkbox" id="nav-2-1-1" >
+    <input class="md-nav__toggle md-toggle" data-md-toggle="nav-2-1-1" type="checkbox" id="nav-2-1-1" checked>
     <label class="md-nav__link" for="nav-2-1-1">
       101 Getting Started
       <span class="md-nav__icon md-icon"></span>
@@ -448,11 +463,70 @@
           
           
 
+  
 
-  <li class="md-nav__item">
-    <a href="../kotlin-003-firstkoans.md" class="md-nav__link">
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        3. First Kotlin Koan
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+    
+    <a href="./" class="md-nav__link md-nav__link--active">
       3. First Kotlin Koan
     </a>
+    
+      
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#about-koans" class="md-nav__link">
+    About Koans
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#set-introduction" class="md-nav__link">
+    Set: Introduction
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#set-conventions" class="md-nav__link">
+    Set: Conventions
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#summary" class="md-nav__link">
+    Summary
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+    
   </li>
 
         
@@ -625,15 +699,82 @@
               </div>
             
             
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#about-koans" class="md-nav__link">
+    About Koans
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#set-introduction" class="md-nav__link">
+    Set: Introduction
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#set-conventions" class="md-nav__link">
+    Set: Conventions
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#summary" class="md-nav__link">
+    Summary
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
           
           <div class="md-content">
             <article class="md-content__inner md-typeset">
               
                 
                 
-                  <h1>Kotlin 0033 firstkoans</h1>
-                
-                
+                <h1 id="the-first-kotlin-koan">The First Kotlin Koan<a class="headerlink" href="#the-first-kotlin-koan" title="Permanent link">&para;</a></h1>
+<details class="quote" open="open"><summary>Helpful Resources</summary><ul>
+<li><a href="https://kotlinlang.org/docs/tutorials/koans.html">Kotlin Koans</a></li>
+<li><a href="https://play.kotlinlang.org/koans/overview">Kotlin Koans: Online</a></li>
+<li><a href="https://www.jetbrains.com/help/education/learner-start-guide.html?section=Kotlin%20Koans">Learner Guide</a></li>
+</ul>
+</details>
+<h2 id="about-koans">About Koans<a class="headerlink" href="#about-koans" title="Permanent link">&para;</a></h2>
+<p>Learning programming syntax thoroughly is hard without trawling the docs extensively. <a href="https://kotlinlang.org/docs/tutorials/koans.html">Kotlin Koans</a> are handy exercises that teach you syntax <em>in coding contexts</em>, where you fix syntax problems in the koan to make the associated tests pass.</p>
+<p>You can complete Koans <a href="https://play.kotlinlang.org/koans/overview">online</a> using the interactive Playground, or use the <code>My Courses</code> tab in IntelliJ <abbr title="Integrated Development Environment">IDE</abbr> to explore this (and other courses) interactively within the <abbr title="Integrated Development Environment">IDE</abbr>. Existing Koans cover everything from basic syntax to collections and generics.</p>
+<div class="admonition warning">
+<p class="admonition-title">Review <a href="http://127.0.0.1:8000/posts/kotlin-001-setup/#2-intellij-idea-setup"><abbr title="Popular IDE for Kotlin and Java developers. See https://www.jetbrains.com/idea/">IntelliJ IDEA</abbr>: Setup</a> and make sure you have the EduTools plugin installed</p>
+</div>
+<h2 id="set-introduction">Set: Introduction<a class="headerlink" href="#set-introduction" title="Permanent link">&para;</a></h2>
+<h2 id="set-conventions">Set: Conventions<a class="headerlink" href="#set-conventions" title="Permanent link">&para;</a></h2>
+<h2 id="summary">Summary<a class="headerlink" href="#summary" title="Permanent link">&para;</a></h2>
+<div class="admonition quote">
+<p class="admonition-title">What we completed here:</p>
+</div>
                 
               
               
@@ -648,6 +789,41 @@
       
         
 <footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid" aria-label="Footer">
+        
+          <a href="../kotlin-002-firstapp/" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-footer-nav__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+            </div>
+            <div class="md-footer-nav__title">
+              <div class="md-ellipsis">
+                <span class="md-footer-nav__direction">
+                  Previous
+                </span>
+                2. First Kotlin App
+              </div>
+            </div>
+          </a>
+        
+        
+          <a href="../../100days/roadmap/" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-footer-nav__title">
+              <div class="md-ellipsis">
+                <span class="md-footer-nav__direction">
+                  Next
+                </span>
+                Roadmap
+              </div>
+            </div>
+            <div class="md-footer-nav__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
   
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">
