@@ -1,32 +1,23 @@
-# Welcome to my Kotlin corner! [^1] 
-![Mobile Phone Image Credited to undraw.co.](assets/img/banner.png){: loading=lazy }
-[^1]: Banner image credited to [undraw.co](https://undraw.co/)
+# Hello Kotlinverse! :sparkle:
 
-[:fontawesome-solid-map-signs:{: .heartbeat } Learn about #100DaysOfKotlin](/home/100days){: .md-button }
+My name is [Nitya Narasimhan](https://twitter.com/nitya/). I'm a **Mobile / Cloud Advocate** on the Developer Relations team at Microsoft and I want to help everyone build beautiful experiences for mobile users at cloud scale. Learn more about me and this project [here](/about). 
 
-If you're a first-time visitor, the main purpose of this site is to document and share my learning journey with Kotlin. I have three goals: 
+This site is for anyone taking a Kotlin learning journey, with three trails initially:
 
- * Improve my [Kotlin](https://kotlinlang.org/docs/reference/) and [Android](https://developer.android.com/kotlin) development skills and keep them current.
- * Explore app development for [Microsoft Surface Duo](https://docs.microsoft.com/en-us/dual-screen/?WT.mc_id=mobile-9644-ninarasi) and other [Foldable Android Devices](https://developer.android.com/guide/topics/ui/foldables).
- * Explore cloud integration with Microsoft [Azure](https://docs.microsoft.com/en-us/azure/?product=featured&WT.mc_id=mobile-9644-ninarasi), [M365](https://docs.microsoft.com/en-us/microsoft-365/?view=o365-worldwide&WT.mc_id=mobile-9644-ninarasi) and [Power Platform](https://docs.microsoft.com/en-us/power-platform/?WT.mc_id=mobile-9644-ninarasi) for Android. 
+ * **Core Kotlin** | focus on language syntax and foundational concepts.
+ * **Kotlin + Android** | building professional mobile apps using best practices.
+ * **Kotlin + Cloud** | scaling mobile apps with cloud services for scale.
 
-Visit the [About](home/about) page to learn more. You can get regular updates by subscribing to the [RSS Feed](feed_rss_created.xml) or by following [@kotlinfyi](https://twitter.com/kotlinfyi) on Twitter. Feedback (questions or comments) are also welcome - just **[submit an issue](https://github.com/Mobile-Design-Dev/kotlin-fyi/issues/new)** with your resource recommendations or insights.
+[:fontawesome-solid-map-signs:{: .heartbeat } #100DaysOfKotlin - Basics to Multiplatform](/100days){: .md-button .md-button--primary}
 
----
+??? question "Have Comments or Feedback?"
 
-## News & Activity
+    Here are the main options:
 
-!!! tip "December 2020"
+    * :fontawesome-solid-comments: **Comments** | Share them on our [Discussions](https://github.com/Mobile-Design-Dev/kotlin-fyi/discussions) board.
+    * :fontawesome-solid-bug: **Errors?** | File an [Issue](https://github.com/Mobile-Design-Dev/kotlin-fyi/issues/new) and I will look into it!
+    * :fontawesome-brands-twitter: **Kudos!** | Please do tag [@kotlinfyi](https://twitter.com/kotlinfyi) and let us know what you liked!
 
- * **Dec 2** |  Website updated with [#100DaysOfKotlin](/home/100days)
- * **Dec 1** |  Jetbrains launched a [Kotlin For Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers) course on Coursera starting today. It's free to audit or you can pay for certification. The course is spread over 5 weeks and should take ~25 hours to complete on a normal pace. I'll be checking it out soon!
+??? info "Under The Hood: MkDocs-Material"
 
----
-
-
-**Under the hood: **
-The site was built using [Mkdocs](https://mkdocs.org) with the [Material theme](https://squidfunk.github.io/mkdocs-material/) and reflects my love for all things documentation! :heart:{: .heartbeat }. I'm still learning about its amazing features so expect the site to change and evolve as I explore this further!
-
-[:fontawesome-brands-twitter:{: .twitter}  Follow @kotlinfyi](https://twitter.com/kotlinfyi){: .md-button .md-button--primary }
-
----
+    The site was intentionally built with [Mkdocs](https://mkdocs.org) and the [Material theme](https://squidfunk.github.io/mkdocs-material/) to mimic documentation guides. I hope it serves as a living _Kotlin Study Guide_ linking to both canonical and community-created resources of value.

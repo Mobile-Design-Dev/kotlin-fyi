@@ -21,23 +21,26 @@ edit_uri: ''
 nav:
   - Home: 
     - Welcome: index.md 
-    - About: home/about.md
-    - Trail Map: home/roadmap.md
-  - Kotlin:
-    - TOC: kotlin/index.md
-    - Trail Map: home/roadmap.md
-  - Android: 
-    - TOC: android/index.md
-    - Trail Map: home/roadmap.md
-  - Foldables: 
-    - TOC: foldables/index.md
-    - Trail Map: home/roadmap.md
-  - Cloud: 
-    - TOC: cloud/index.md
-    - Trail Map: home/roadmap.md
-  - 100Days: 
-    - About: home/100days.md
-    - Trail Map: home/roadmap.md
+    - 100Days: 100days/index.md
+    - CloudSkills: "https://cloud-skills.dev"
+    - Glossary: glossary.md
+    - About: about.md
+  - Posts: 
+    - 100 Kotlin Core:
+      - 101 Getting Started:
+        - 1. Setup IDE: posts/kotlin-001-setup.md
+        - 2. First Kotlin App: posts/kotlin-002-firstapp.md
+        - 3. First Kotlin Koan: posts/kotlin-003-firstkoans.md
+    - Roadmap: 100days/roadmap.md
+    - CloudSkills: "https://cloud-skills.dev"
+  - 100Days:
+    - About: 100days/index.md
+    - Roadmap: 100days/roadmap.md
+    - Timeline: 100days/journal.md
+  - Glossary:
+    - Welcome: glossary.md
+  - About: 
+    - Welcome: about.md
 
 # Build Directories 
 # Includes: 
@@ -53,7 +56,7 @@ nav:
 # CSS: https://squidfunk.github.io/mkdocs-material/customization/#additional-css
 # JS Tablesort: https://squidfunk.github.io/mkdocs-material/reference/data-tables/#sortable-tables
 extra:
-  manifest: manifest.webmanifest
+#  manifest: manifest.webmanifest
   social: 
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/nitya
@@ -85,20 +88,17 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  include_homepage_in_sidebar: false
-  prev_next_buttons_location: bottom
-  titles_only: false         # false
-  collapse_navigation: true  # true
-  sticky_navigation: true    # true
   shortcuts:      # See https://keycode.info/
     help: 191     # ?
     next: 78      # n
     previous: 80  # p
     search: 83    # s
   features:
+  # 2. Setup nav: https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/
     - navigation.tabs
-  navigation_depth: 2
-  nav_style: dark
+    - navigation.instant
+    - navigation.sections
+    - navigation.expand
   # 3. Change language: https://squidfunk.github.io/mkdocs-material/setup/changing-the-language/
   language: en
   direction: ltr
@@ -120,9 +120,12 @@ plugins:
 # Admonitions=Callouts: https://squidfunk.github.io/mkdocs-material/reference/admonitions/
 # Attribute List=Buttons: https://squidfunk.github.io/mkdocs-material/reference/buttons/
 # Pygments= Code Blocks: https://squidfunk.github.io/mkdocs-material/reference/code-blocks/
+# TOC = https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#table-of-contents
 markdown_extensions:
   - abbr
   - pymdownx.snippets     # Abbreviations file
+  - markdown_include.include:
+      base_path: docs
   - admonition
   - pymdownx.details      # Collapsible admonition
   - pymdownx.superfences  # Embedded content
@@ -147,6 +150,9 @@ markdown_extensions:
       custom_checkbox: true
       clickable_checkbox: false
   - meta                  # meta tags
+  - toc:
+      toc_depth: 4
+      permalink: true
 
 # Admonitions are cool!
 # Default types: https://squidfunk.github.io/mkdocs-material/reference/admonitions/#supported-types
